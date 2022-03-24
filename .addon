@@ -1,0 +1,13 @@
+{
+  "Title": "datacore",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "datacore",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null
+}
