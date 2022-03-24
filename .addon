@@ -1,7 +1,7 @@
 {
   "Title": "datacore",
   "Type": "map",
-  "Org": "local",
+  "Org": "facepunch",
   "Ident": "datacore",
   "Schema": 1,
   "HasAssets": true,
@@ -9,5 +9,6 @@
   "ResourcePaths": null,
   "HasCode": false,
   "CodePath": null,
-  "RootNamespace": null
+  "RootNamespace": null,
+  "Metadata": {}
 }
