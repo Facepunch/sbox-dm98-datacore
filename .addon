@@ -10,5 +10,9 @@
   "HasCode": false,
   "CodePath": null,
   "RootNamespace": null,
-  "Metadata": {}
+  "Metadata": {
+    "GameSupport": [
+      "facepunch.dm98"
+    ]
+  }
 }
