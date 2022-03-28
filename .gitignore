@@ -1,3 +1,4 @@
 
 *.los
 *.vpk
+*_bakeresourcecache
