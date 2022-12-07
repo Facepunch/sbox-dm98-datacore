@@ -2,29 +2,22 @@
 {
 	data = 
 	{
-		MasterVolume = "100.00,1.00,0"
+		MasterVolume = "1.00,1.00,0"
 		LoopedSounds = 
 		[
 			{
-				Volume = "0.05,1.00,0"
 				SoundFile = resource:"sounds/ambience/fluorescent-humming-loop.vsnd"
+				Volume = "0.05,1.00,0"
 			},
 			{
-				Volume = "0.10,1.00,0"
 				SoundFile = resource:"sounds/ambience/cave-loop.vsnd"
+				Volume = "0.10,1.00,0"
 			},
 			{
-				Volume = "0.10,0.40,0"
 				SoundFile = resource:"sounds/ambience/electric_loop.vsnd"
+				Volume = "0.10,0.40,0"
 			},
 		]
-		StingSounds = 
-		[
-			{
-				InstanceCount = 1
-				RepeatTime = "1.00,2.00,1"
-				Distance = "50.00,100.00,1"
-			},
-		]
+		StingSounds = [  ]
 	}
 }

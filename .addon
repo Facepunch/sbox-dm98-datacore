@@ -3,6 +3,7 @@
   "Type": "map",
   "Org": "facepunch",
   "Ident": "datacore",
+  "Tags": "",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
@@ -13,6 +14,9 @@
   "Metadata": {
     "GameSupport": [
       "facepunch.dm98"
-    ]
+    ],
+    "Summary": "Deathmatch map Datacore",
+    "Description": "Deathmatch map Datacore",
+    "Public": true
   }
 }
